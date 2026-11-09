@@ -9,4 +9,4 @@ I graduated at the University of Johannesburg with a 55% cumulative average.
 * Git, Docker and Github
 
 ## 📁 Projects
-* [Campustree](link-to-repo): A brief description of what you built.
+* [Campustree]https://github.com/PatrickMuchichwa/CampusTree.git: It is a student marketplace where students can get in touch  and buy services from service providers nearest to them. Services range from accommodation and restaurants to groceries etc.  
